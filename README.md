@@ -1,4 +1,6 @@
-# search-in-production-articles
+# Search Related Articles
+
+Just collecting articles on building intuition on search engines in no particular order .....
 
 - [LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth.html) by [Doug Turnbull](https://softwaredoug.com/) <br>
   <b>Preview:</b> LambdaMART is a classic. It’s the endlessly tinkerable classic car of ranking algorithms. If you can grok the algorithm, you can play with the model architecture, coming up with your own variations on this learning to rank staple....
