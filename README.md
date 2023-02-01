@@ -16,3 +16,6 @@ Just collecting articles on building intuition on search engines in no particula
 
 - [10 Reasons why you shouldn’t remove stop words](https://opensourceconnections.com/blog/2023/01/24/10-reasons-why-you-shouldnt-remove-stop-words/) <br>
   <b>Preview:</b> So there shouldn’t be any harm in removing them from the data we are indexing in search engines and from the queries that are sent to these to retrieve relevant results, right? ..
+  
+- [Serving Large Language Models to improve Search Relevance at leboncoin](https://medium.com/@_leboncoin/serving-large-language-models-to-improve-search-relevance-at-leboncoin-2a364e5b6f76)<br>
+  <b>Preview:</b> In this post, we describe this first iteration towards an improved search relevance. By the end of the post you will know how we successfully deployed in production, facing highly restrictive conditions specific to the search engine industry, large neural networks to facilitate users’ contact and improve their search experience on leboncoin........
