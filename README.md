@@ -19,3 +19,6 @@ Just collecting articles on building intuition on search engines in no particula
   
 - [Serving Large Language Models to improve Search Relevance at leboncoin](https://medium.com/@_leboncoin/serving-large-language-models-to-improve-search-relevance-at-leboncoin-2a364e5b6f76)<br>
   <b>Preview:</b> In this post, we describe this first iteration towards an improved search relevance. By the end of the post you will know how we successfully deployed in production, facing highly restrictive conditions specific to the search engine industry, large neural networks to facilitate users’ contact and improve their search experience on leboncoin........
+
+- [Improving Search Ranking with Few-Shot Prompting of LLMs](https://blog.vespa.ai/improving-text-ranking-with-few-shot-prompting/)<br>
+  <b>Preview:</b> This blog post explores using large language models (LLMs) to generate labeled data for training ranking models. Distilling the knowledge and power of generative models with billions of parameters to ranking models with a few million parameters...
