@@ -22,3 +22,6 @@ Just collecting articles on building intuition on search engines in no particula
 
 - [Improving Search Ranking with Few-Shot Prompting of LLMs](https://blog.vespa.ai/improving-text-ranking-with-few-shot-prompting/)<br>
   <b>Preview:</b> This blog post explores using large language models (LLMs) to generate labeled data for training ranking models. Distilling the knowledge and power of generative models with billions of parameters to ranking models with a few million parameters...
+  
+- [eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/)<br>
+  <b>Preview:</b> The Similarity Engine's use cases include item-to-item similarity for text and image modality and user-to-item personalized recommendations based on a user’s historical behavior data....
