@@ -9,6 +9,9 @@ Whether you are a seasoned researcher, a software engineer, a student stepping i
 We leverage machine learning to make sure people are always seeing content that is the most interesting and relevant to them.
 Using more advanced machine learning models, like Two Towers neural networks, we’ve been able to make the Explore recommendation system even more scalable and flexible.</b>
 
+- [Search: Query Matching via Lexical, Graph, and Embedding Methods](https://eugeneyan.com/writing/search-query-matching/#supervised-techniques-improves-modeling-of-our-desired-event)<br>
+  <b>Preview: Search and recommendations have a lot in common. They help users learn about new products, and need to retrieve and rank millions of products in a very short time (<150ms). They’re trained on similar data, have content and behavioral-based approaches, and optimize for engagement (e.g., click-through rate) and revenue (e.g., conversion, gross merchandise value).</b>
+
 - [Broad and Ambiguous Search Queries](https://dtunkelang.medium.com/broad-and-ambiguous-search-queries-1bbbe417dcc)<br>
   <b>Preview:A typical approach for processing search queries is to retrieve a set of matching documents and then rank them with a relevance scoring function. This simple approach generally works well for unambiguous, specific search queries.
 But sometimes this approach breaks down. When a search query is broad (e.g., “shirts”), it isn’t clear how to decide which matching results are the most relevant ones.</b>
