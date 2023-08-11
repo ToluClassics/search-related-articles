@@ -25,3 +25,24 @@ Just collecting articles on building intuition on search engines in no particula
   
 - [eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/)<br>
   <b>Preview:</b> The Similarity Engine's use cases include item-to-item similarity for text and image modality and user-to-item personalized recommendations based on a user’s historical behavior data....
+
+- [Ask like a human: Implementing semantic search on Stack Overflow](https://stackoverflow.blog/2023/07/31/ask-like-a-human-implementing-semantic-search-on-stack-overflow/)<br>
+  <b>Preview:Our hypothesis is that if our semantic search produces high-quality results, technologists looking for answers will use our search instead of a search engine or conversational AI. Our forthcoming semantic search functionality is the first step in a continuous experimental process that will involve a lot of data science, iteration, and most importantly: our users. We’re excited to embark upon this adventure together with our community and can’t wait for you to experience our new semantic search.</b>
+
+- [Retrieval Augmented Generation: Streamlining the creation of intelligent natural language processing models](https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/)<br>
+  <b>Preview: RAG looks and acts like a standard seq2seq model, meaning it takes in one sequence and outputs a corresponding sequence. There is an intermediary step though, which differentiates and elevates RAG above the usual seq2seq methods. Rather than passing the input directly to the generator, RAG instead uses the input to retrieve a set of relevant documents, in our case from Wikipedia.</b>
+
+- [Should you use OpenAI's embeddings? Probably not, and here's why.](https://iamnotarobot.substack.com/p/should-you-use-openais-embeddings)<br>
+  <b>Preview:If you do go with OpenAI, one word of advice: make sure you don’t spend $50M embedding the whole internet, become successful and then depend on OpenAI’s api to run your search engine!</b>
+
+- [Llama from scratch](https://blog.briankitano.com/llama-from-scratch/?utm_source=pocket_saves)<br>
+  <b>Preview: I want to provide some tips from my experience implementing a paper. I'm going to cover implementing a dramatically scaled-down version of Llama for training TinyShakespeare. This post is heavily inspired by Karpathy's Makemore series, which I highly recommend.</b>
+
+- [The little search engine that couldn’t](https://www.theverge.com/23802382/search-engine-google-neeva-android?utm_source=pocket_saves)<br>
+  <b>Preview:A couple of ex-Googlers set out to create the search engine of the future. They built something faster, simpler, and ad-free. So how come you’ve never heard of Neeva?</b>
+
+- [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/?utm_source=pocket_saves)<br>
+  <b>Preview:This write-up is about practical patterns for integrating large language models (LLMs) into systems & products. We’ll build on academic research, industry resources, and practitioner know-how, and distill them into key ideas and practices.</b>
+
+- []()<br>
+  <b>Preview:</b>
