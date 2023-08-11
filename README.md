@@ -4,6 +4,15 @@ This repository is dedicated to collecting blog posts and articles on the implem
 # Who is this Repository For? 🎓
 Whether you are a seasoned researcher, a software engineer, a student stepping into the world of dense retrieval, or a business leader looking to understand the practical implications of these technologies, this repository provides valuable insights and resources tailored to your needs.
 
+- [Scaling the Instagram Explore recommendations system](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/)<br>
+  <b>Preview: Explore is one of the largest recommendation systems on Instagram.
+We leverage machine learning to make sure people are always seeing content that is the most interesting and relevant to them.
+Using more advanced machine learning models, like Two Towers neural networks, we’ve been able to make the Explore recommendation system even more scalable and flexible.</b>
+
+- [Broad and Ambiguous Search Queries](https://dtunkelang.medium.com/broad-and-ambiguous-search-queries-1bbbe417dcc)<br>
+  <b>Preview:A typical approach for processing search queries is to retrieve a set of matching documents and then rank them with a relevance scoring function. This simple approach generally works well for unambiguous, specific search queries.
+But sometimes this approach breaks down. When a search query is broad (e.g., “shirts”), it isn’t clear how to decide which matching results are the most relevant ones.</b>
+
 - [LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth.html) by [Doug Turnbull](https://softwaredoug.com/) <br>
   <b>Preview:</b> LambdaMART is a classic. It’s the endlessly tinkerable classic car of ranking algorithms. If you can grok the algorithm, you can play with the model architecture, coming up with your own variations on this learning to rank staple....
 
