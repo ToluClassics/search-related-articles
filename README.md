@@ -1,6 +1,8 @@
-# Search Related Articles
+# Semantic Search & Retrieval Augmented Generation Research and Implementations 🧠🔍
+This repository is dedicated to collecting blog posts and articles on the implementation of state-of-the-art techniques in semantic search, dense retrieval, and retrieval augmented generation (RAG). From theoretical exploration to hands-on performance in real-world scenarios, this repository serves as a central hub for researchers, practitioners, and enthusiasts in the field.
 
-Just collecting articles on building intuition on search engines in no particular order .....
+# Who is this Repository For? 🎓
+Whether you are a seasoned researcher, a software engineer, a student stepping into the world of dense retrieval, or a business leader looking to understand the practical implications of these technologies, this repository provides valuable insights and resources tailored to your needs.
 
 - [LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth.html) by [Doug Turnbull](https://softwaredoug.com/) <br>
   <b>Preview:</b> LambdaMART is a classic. It’s the endlessly tinkerable classic car of ranking algorithms. If you can grok the algorithm, you can play with the model architecture, coming up with your own variations on this learning to rank staple....
